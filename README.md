@@ -39,6 +39,10 @@ Also more examples are available on this [repo](https://github.com/flyingrub/ffg
 
 `modelPath` is exposed as an FFGL file parameter, so Resolume can show a file browser and accept file drag/drop. `oscPort` remains a text parameter. Mesh toggles are hidden until a model is loaded, then renamed to the discovered component names.
 
+### Included sample asset
+
+The repository now includes a sample GLB face model at `assets/head.glb` so the plugin can be exercised without depending on an external D-VoidBot checkout.
+
 ### Supported model layouts
 
 #### ICT FaceKit OBJ
