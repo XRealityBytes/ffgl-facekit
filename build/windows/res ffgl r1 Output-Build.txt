@@ -1,0 +1,9 @@
+﻿Build started at 02:51...
+1>------ Build started: Project: ModelViewer, Configuration: Release x64 ------
+1>  ModelViewer.cpp
+1>glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Dev\ffgl\binaries\x64\Release\vc120.pdb'; linking object as if no debug info
+1>     Creating library ..\..\binaries\x64\Release\ModelViewer.lib and object ..\..\binaries\x64\Release\ModelViewer.exp
+1>LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+1>  ModelViewer.vcxproj -> C:\Dev\ffgl\binaries\x64\Release\ModelViewer.dll
+========== Build: 1 succeeded, 0 failed, 6 up-to-date, 0 skipped ==========
+========== Build completed at 02:51 and took 04.609 seconds ==========
